@@ -1,0 +1,23 @@
+body {
+    color: deepskyblue;
+}
+.header {
+    font-weight: bold;
+}
+a {
+    color: deepskyblue;
+}
+#first-item {
+    color: red;
+}
+#ordered-list {
+    color: burlywood;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+a:hover {
+    color: greenyellow;
+}
+h1:hover {
+    color: greenyellow;
+}
